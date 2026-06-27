@@ -14,12 +14,12 @@
 ```python
 class DataScienceEngineer:
     def __init__(self):
-        self.name       = "[Your Name]"
-        self.username   = "YOUR_GITHUB_USERNAME"
+        self.name       = "Adveta Rai"
+        self.username   = "AdvetaRai"
         self.degree     = "B.Tech CSE (Data Science) — 4th Year"
-        self.interests  = ["AI/ML", "Cyber Security",
-                           "System Design", "Web Dev"]
-        self.languages  = ["Python", "Java", "C++",
+        self.interests  = ["AI/ML", "Data Science",
+                            "Web Dev"]
+        self.languages  = ["Python", "Java", "Swift",
                            "SQL", "HTML/CSS"]
         self.currently  = "Building AI solutions for real problems 🚀"
         self.hackathon  = "SIH Pre-Qualifier ✅"
@@ -39,9 +39,9 @@ me.say_hi()
 
 | 🔬 Project | 💡 Description | 🛠 Stack |
 |:---|:---|:---|
-| [🌾 AI Crop Recommendation System](https://github.com/YOUR_USERNAME/repo) | SIH Pre-Qualifier — Predicts optimal crop using ML models on soil & climate data | Python, scikit-learn, Pandas |
-| [🏥 AI Health Chatbot](https://github.com/YOUR_USERNAME/repo) | NLP-powered chatbot for health queries & symptom guidance | Python, NLP, Flask |
-| [🧬 Disease Prediction Model](https://github.com/YOUR_USERNAME/repo) | ML pipeline to predict diseases from patient health parameters | Python, scikit-learn, Streamlit |
+| [🌾Cyber Mind](https://github.com/AdvetaRai/CyberMind)) | SIH Pre-Qualifier — Predicts optimal crop using ML models on soil & climate data | Python, scikit-learn, Pandas |
+| [🏥 Ayu triksha](https://github.com/AdvetaRai/Ayu-Triksha-) | NLP-powered chatbot for health queries & symptom guidance | Python, NLP, Flask |
+| [🧬HireSync]([https://github.com/AdvetaRai/HireSync_Ai]) | ML pipeline to predict diseases from patient health parameters | Python, scikit-learn, Streamlit |
 
 ---
 
@@ -72,15 +72,15 @@ me.say_hi()
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdvetaRai &show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&count_private=true"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvetaRai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4)
+![Streak](https://streak-stats.demolab.com?user=Adveta RaiE&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4)
 
 </div>
 
